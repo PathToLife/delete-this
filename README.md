@@ -6,6 +6,11 @@ Once complete, your application will look similar to this screenshot:
 
 ![](./spec/screenshot.png)
 
+This is an open book test. You may use any bound printed or handwritten notes during the test. You may also use _most_ online or PC-based resources available to you, with the following exceptions:
+- You **may not** use any email, chat programs, or other means of directly communicating with other people online.
+- You **may not** use any generative AI software, including but not limited to GitHub Copilot, Microsoft Copilot, ChatGPT, and Gemini.
+- You **may not** use Microsoft Edge browser or Microsoft Bing search engine.
+
 Before you begin, **make sure to thoroughly read and understand the existing code!** This will help you greatly in being able to achieve the tasks below. Also remember to install dependencies for both the frontend and backend.
 
 This project contains database access code (including an SQL init script), API code, and SvelteKit frontend code.
