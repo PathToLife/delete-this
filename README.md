@@ -1,5 +1,5 @@
 # CS719 - Practical Test three - Student Course Info Viewer
-dddd
+ddddd
 In this test, you will complete a _full-stack_ application allowing users to view courses taken by students, and to edit the grades for those courses. You will primarily be focusing on the _backend_ for this test (i.e. node.js / Express code, and database access), but will also be required to "hook up" the mostly-complete frontend with the backend.
 
 Once complete, your application will look similar to this screenshot:
